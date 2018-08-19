@@ -5,4 +5,4 @@
 <center><img src="https://raw.githubusercontent.com/brycegao/GlobalWindow/master/jingdong.jpg" width="400" hegiht="300" align=center />
 
 <center><img src="https://raw.githubusercontent.com/brycegao/GlobalWindow/master/windowmanager.gif" width="400" hegiht="300" align=center /></center>
-<center>使用Picasso</center>
+<center>原理</center>
