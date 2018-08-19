@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.byrcegao.windowmanagertest.DragView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:background="#ff0000"
+  android:gravity="center">
+
+  <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:textSize="16dp"
+    android:text="我是悬浮窗"
+    />
+
+</com.byrcegao.windowmanagertest.DragView>
